@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AgoraVideoChat</string>
+    <string name="agora_app_id">9bc3f4b0fd2e4326ac80c36d0fb9d279</string>
+    <string name="agora_access_token">#YOUR ACCESS TOKEN#</string>
 </resources>
