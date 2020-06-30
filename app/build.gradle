@@ -28,7 +28,9 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 
     //Agora
-    implementation 'io.agora.rtc:full-sdk:3.0.1'
+    //implementation 'io.agora.rtc:full-sdk:3.0.1.1'
+    implementation files('libs\\agora-rtc-sdk.jar')
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
